@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+}
+
+.square {
+    width: calc(960px / 16);
+    height: calc(960px / 16);
+    border: 1px solid black;
+}
+
+/* Change color on hover */
+.square:hover {
+    background-color: red;
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.border {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
