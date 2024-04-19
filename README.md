@@ -17,6 +17,6 @@ leaving a (pixelated) trail through your grid like a pen would.
 3)Add a button on the top of the screen that will send the user a popup asking for the number of squares per side for the new grid. Once entered,
 the existing grid should be removed, and a new grid should be generated in the same total space as before (e.g., 960px wide) so that you’ve got a new sketch pad.
 
-![Uploading sketch board.png…]()
+![sketch board](https://github.com/RunTheLi/Etch-a-Sketch/assets/157675387/64cab5a6-aacb-401f-a66d-4778f4017ba1)
 
-![sketch]
+![sketch](https://github.com/RunTheLi/Etch-a-Sketch/assets/157675387/acd4b841-1189-4f8f-aad1-8b65a65ef2a0)
