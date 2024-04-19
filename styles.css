@@ -27,4 +27,16 @@ h1 {
     align-items: center;
 }
 
+.btn1 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#btn2 {
+    width: 200px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
 

@@ -33,6 +33,8 @@ function createGrid(numSquaresPerSide) {
     });
 }
 
+
+
 function createNewGrid() {
     let numSquaresPerSide = prompt("Enter number of squares per side (max 100):");
 
